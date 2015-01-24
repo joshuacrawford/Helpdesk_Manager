@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpdesk Manager", "Helpdesk Manager\Helpdesk Manager.csproj", "{12759272-9CE8-4509-9472-E2131CF9AA05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12759272-9CE8-4509-9472-E2131CF9AA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12759272-9CE8-4509-9472-E2131CF9AA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12759272-9CE8-4509-9472-E2131CF9AA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12759272-9CE8-4509-9472-E2131CF9AA05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
